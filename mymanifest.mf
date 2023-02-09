@@ -1,0 +1,2 @@
+Main-Class: is.hi.brs26.hbv202g.ass3.frontend.Main
+Class-path: bin/
